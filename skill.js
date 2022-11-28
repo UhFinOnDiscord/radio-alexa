@@ -19,7 +19,7 @@ const STREAMS = [
                 "sources": [
                     {
                         "contentDescription": images.logo,
-                        "url": "-",
+                        "url": images.logo,
                         "widthPixels": 512,
                         "heightPixels": 512
                     }
@@ -29,7 +29,7 @@ const STREAMS = [
                 "sources": [
                     {
                         "contentDescription": images.background,
-                        "url": "-",
+                        "url": images.background,
                         "widthPixels": 1920,
                         "heightPixels": 1080
                     }
